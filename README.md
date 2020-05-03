@@ -6,11 +6,13 @@
     1. population against time
     1. branching diagram
 
-![](ani/F_ani.gif =500x)
+![](ani/F_ani.gif)
 
-![](ani/population_ani.gif =500x)
+![](ani/population_ani.gif)
 
-![](ani/branching_ani.gif =500x)
+![](ani/branching_ani.gif)
+
+![](branching.png)
 
 ## Files
 
